@@ -66,10 +66,3 @@ else:
 
 
 
-       
-
-#Winner: first to win two throws    
-    
-##print("Winner is the one who wins two throws first")      
-
-
